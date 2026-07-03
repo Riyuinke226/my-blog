@@ -3,24 +3,24 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>炭水化合物</title>
-    <meta name="description" content="炭水化合物 - 一个记录文字的地方">
-    <style>
+    <meta name名称="viewport"“视口” content内容="width=device-width, initial-scale=1.0">元数据name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>炭水化合物</title><标题>碳水化合物</标题><标题>碳水化合物</标题><标题>碳水化合物</标题>
+    <meta name名称名称名称名称名称名称名称名称名称名称="description"“描述”“描述” content内容="炭水化合物 - 一个记录文字的地方"><元数据name="description" content="炭水化合物 - 一个记录文字的地方"><元数据name="description" content="碳水化合物 - 一个记录文字的地方"><metaname="description" content="碳水化合物 - 一个记录文字的地方"><metaname="description" content="碳水化合物 - 一个记录文字的地方"><metaname="description" content="碳水化合物 - 一个记录文字的地方">
+    <style><样式>
         * {
-            margin: 0;
+            margin: 0;边距: 0;
             padding: 0;
             box-sizing: border-box;
         }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-            background-color: #fafafa;
-            color: #1a1a1a;
-            line-height: 1.7;
-            padding: 20px;
-            max-width: 700px;
-            margin: 0 auto;
-            word-break: break-word;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;字体系列: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", 无衬线字体;字体系列:-apple-system,BlinkMacSystemFont"Segoe UI"Roboto"Helvetica Neue"Arial"Noto Sans"无衬线字体;字体系列:-apple-system,BlinkMacSystemFont"Segoe UI"Roboto"Helvetica Neue"Arial"Noto Sans"无衬线字体;字体系列:-apple-system,BlinkMacSystemFont"Segoe UI"Roboto"Helvetica Neue"Arial"Noto Sans"无衬线字体;字体系列:-apple-system,BlinkMacSystemFont"Segoe UI"Roboto"Helvetica Neue"Arial"Noto Sans"无衬线字体;
+            background-color: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;背景颜色: #fafafa;
+            color颜色颜色颜色颜色颜色: #1a1a1a;颜色: #1a1a1a;颜色颜色颜色颜色颜色颜色: #1a1a1a;颜色: #1a1a1a;
+            line-height: 1.7;行高: 1.7;行高: 1.7;行高: 1.7;
+            padding: 20px;内边距: 20像素;内边距: 20px;内边距: 20像素;
+            max-width: 700px;最大宽度: 700像素;最大宽度: 700px;最大宽度: 700像素;
+            margin边距: 0 auto自动;外边距: 0 自动;
+            word-break: break-word;断字: 断字;换行: 断字;断字: 断字;
         }
         /* 密码弹层 */
         .password-overlay {
@@ -32,7 +32,7 @@
             align-items: center;
             justify-content: center;
             z-index: 999;
-            padding: 20px;
+            padding: 20px;内边距: 20像素;
         }
         .password-box {
             background: white;
@@ -232,7 +232,7 @@
                 id: 1,
                 title: "炭水化合物的自白",
                 date: "2025-03-10",
-                content: `
+                content: `内容: `
                     <p>大家好，我叫炭水化合物。不是你们常说的碳水化合物，我多了一点“炭”，多了几分深沉。</p>
                     <p>碳水化合物是能量，我炭水化合物是带着烟火气的能量。我诞生于烤焦的面包边、锅底的锅巴、还有烧烤架上那一层微焦的甜蜜。</p>
                     <p>如果你觉得生活太寡淡，就像白水煮鸡胸，那我建议你试试我——炭水化合物。一口下去，酥脆、微苦、回甘，像极了成年人的快乐。</p>
@@ -241,18 +241,18 @@
             {
                 id: 2,
                 title: "如何正确食用炭水化合物",
-                date: "2025-03-18",
-                content: `
+                date: "2025-03-18",日期: "2025-03-18",
+                content: `内容: `
                     <p>很多人问我：炭水化合物怎么吃才健康？我笑了笑，健康这个词本身就不太适合我。</p>
                     <p>正确食用我的方式只有一种：在深夜，趁世界安静，趁理性松懈，拿出那袋藏了很久的炭烧饼干或者烤得微糊的红薯，配上一杯无糖豆浆，告诉自己“这只是碳水，不是罪恶”。</p>
                     <p>记得要小口咀嚼，让焦香在嘴里散开。那一刻，你摄入的不是热量，是一整天紧绷后的放松。</p>
                 `
             },
             {
-                id: 3,
+                id: 3,编号: 3,
                 title: "一个炭水化合物爱好者的自我修养",
                 date: "2025-04-22",
-                content: `
+                content: `内容: `
                     <p>作为一个专业的炭水化合物爱好者，冰箱里没有蔬菜可以，但不能没有冷冻的烤馒头片。</p>
                     <p>我的烤箱常年设定在200度，不是为了烤肉，而是为了把吐司边缘烤成深棕色。朋友们说我这是美拉德反应上瘾，我觉得这是一种生活美学。</p>
                     <p>如果有一天你路过一家面包店，闻到微微的焦糊味，请想起我，一个平凡却坚定的炭水化合物信徒。</p>
@@ -356,9 +356,9 @@
         }
         function handleRoute() {
             const articleId = getCurrentArticleId();
-            if (articleId) {
+            if (articleId) {如果 (articleId) {
                 renderDetail(articleId);
-            } else {
+            } else {} 否则 {
                 renderList();
             }
         }
